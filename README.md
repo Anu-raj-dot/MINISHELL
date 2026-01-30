@@ -77,7 +77,7 @@ This is an educational project. You're welcome to open issues or submit PRs with
 ---------------
 If you want me to implement the self-pipe pattern or to add more robust tests for job control I can implement that next; it will improve stability and correctness when many children change state simultaneously.
 
-## Live Demo
+## Sample Execution
 
 | Step | Terminal Output |
 |------|-----------------|
